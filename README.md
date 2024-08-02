@@ -1,16 +1,14 @@
-## Hi there 👋
+### bem vindo ao meu perfil💙
 
-<!--
-**gabylindaaa/gabylindaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-me chamo gaby
 
-Here are some ideas to get you started:
+-estou estudando no [alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo na linguagem javaScript
+
+-ultilizo essa espaço para compartilhar meus projetos  desenvolvidos 
+
+### você pode entrar em contato comigo 📧
+1089130582sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/1NlAqBKWJB8AAAAC/love-you-lots-kisses.gif)
